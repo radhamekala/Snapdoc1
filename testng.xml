@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="SnapDoc.snap.MultiDocumentTest"/>
+      <class name="SnapDoc.snap.AddUsertest"/>
+      <class name="SnapDoc.snap.Type3Test"/>
+      <class name="SnapDoc.snap.WithchangeTest7"/>
+      <class name="SnapDoc.snap.WithchangeTest8"/>
+      <class name="SnapDoc.snap.WithChangeTest10"/>
+      <class name="SnapDoc.snap.Scenariostest1"/>
+      <class name="SnapDoc.snap.WithChangeTest12"/>
+      <class name="SnapDoc.snap.WithChangeTest11"/>
+      <class name="SnapDoc.snap.Organizationtest"/>
+      <class name="SnapDoc.snap.EmailCheckingTest"/>
+      <class name="SnapDoc.snap.iniciatetest"/>
+      <class name="SnapDoc.snap.Justificationstest"/>
+      <class name="SnapDoc.snap.Usertest"/>
+      <class name="SnapDoc.snap.WithcahngeTest6"/>
+      <class name="SnapDoc.snap.Departmentstest"/>
+      <class name="SnapDoc.snap.TypeUserBasedTest"/>
+      <class name="SnapDoc.snap.WithChangeTest9"/>
+      <class name="SnapDoc.snap.Scenariotest2"/>
+      <class name="SnapDoc.snap.WithChangeTest4"/>
+      <class name="SnapDoc.snap.Type4Test"/>
+      <class name="SnapDoc.snap.WithChangeTest2"/>
+      <class name="SnapDoc.snap.WithChangeTest3"/>
+      <class name="SnapDoc.snap.Type2test"/>
+      <class name="SnapDoc.snap.UserRolesTest"/>
+      <class name="SnapDoc.snap.SingledocwithoutnonsignatoryTest"/>
+      <class name="SnapDoc.snap.Typetext"/>
+      <class name="SnapDoc.snap.WithChangeAutoUserbasedtest"/>
+      <class name="SnapDoc.snap.Type5Test"/>
+      <class name="SnapDoc.snap.Logintest"/>
+      <class name="SnapDoc.snap.initiate1scenarioTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
